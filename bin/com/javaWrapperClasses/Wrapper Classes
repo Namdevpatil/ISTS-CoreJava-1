@@ -1,0 +1,25 @@
+Wrapping: bind/collect
+
+Wrapper Classes: these classes are wrapping/collecting/binding a primitive value into 
+===============  wrapper class objects.
+
+byte     -    Byte
+short    -    Short
+int      -    Integer
+long     - 	  Long
+
+float    -    Float
+double   -    Double
+
+char     -    Character
+
+boolean  -    Boolean
+
+---------------------------------------------------------------------------
+1. we can able get size of the data type(in bytes/bits), max and min values
+
+2. we can do conversions to other types(primitives/object types)
+				- AutoBoxing: primitive to object
+				- unBoxing: object type to primitive
+3. To implement Generics in Java Collections.
+
